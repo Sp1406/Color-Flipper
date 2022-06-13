@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: #cccccc;
+}
+
+.currentColor {
+    font-family: 'Fredericka the Great', cursive;
+    font-weight: 1000;
+    margin: auto;
+    top: 16rem;
+    position: relative;
+}
+
+.click {
+    position: relative;
+    top: 18rem;
+    font-size: 1.5rem;
+    padding: 1rem;
+    border-radius: 1.5rem;
+    border: none;
+    color: rgb(29, 29, 29);
+    background-color: #a5a5a59c;
+}
